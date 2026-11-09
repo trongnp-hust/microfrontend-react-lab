@@ -1,0 +1,9 @@
+{
+  "name": "@lab/catalog-bff",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node --watch server.cjs",
+    "start": "node server.cjs"
+  }
+}

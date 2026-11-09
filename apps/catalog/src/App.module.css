@@ -1,0 +1,1 @@
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}.art{height:125px;background:#e8f1ed;border-radius:12px;display:grid;place-items:center;font-size:52px}.search{padding:12px;border:1px solid #b8c8c0;border-radius:8px;width:min(100%,360px)}.card{border:1px solid #dce4e8;border-radius:14px;padding:20px;background:white}

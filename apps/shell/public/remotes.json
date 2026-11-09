@@ -1,0 +1,10 @@
+{
+  "catalog": {
+    "url": "http://localhost:3001/remoteEntry.js",
+    "scope": "catalog"
+  },
+  "cart": {
+    "url": "http://localhost:3002/remoteEntry.js",
+    "scope": "cart"
+  }
+}
